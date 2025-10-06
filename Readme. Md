@@ -1,0 +1,10 @@
+# EmailAI
+
+EmailAI (InboxAI) is an intelligent email automation system built with **FastAPI** and **OpenAI**.
+It reads, classifies, and summarizes emails using AI — with live updates and backend reliability.
+
+**Features**
+- AI-powered text understanding  
+- Retry & reliability mechanisms  
+- Live status updates  
+- Ready for production deployment
